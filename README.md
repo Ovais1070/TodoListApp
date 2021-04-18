@@ -7,7 +7,7 @@ Submited to AllocateRite by Ovais Khan
 Steps to Run Project.
 
 
-Please Clone or download the zipFile of the code
+Please Clone or download the zipFile of the code from the Master Branch
 
 
 To Run project on a device please select TodoListApplication in left Navigation Panel
